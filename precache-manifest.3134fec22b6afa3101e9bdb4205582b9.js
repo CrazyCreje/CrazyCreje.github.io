@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a602266c549943876b941a40a4d62fd7",
+    "revision": "f7283d81f6ac73a0d59448e1ca6d33e3",
     "url": "/DigiSafe/index.html"
   },
   {
-    "revision": "09cbf0656854c5ae8294",
+    "revision": "becd2c2be6e027c0a6cb",
     "url": "/DigiSafe/static/css/main.f6aa7029.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DigiSafe/static/js/2.7c771757.chunk.js"
   },
   {
-    "revision": "09cbf0656854c5ae8294",
-    "url": "/DigiSafe/static/js/main.b1a01f7c.chunk.js"
+    "revision": "becd2c2be6e027c0a6cb",
+    "url": "/DigiSafe/static/js/main.b4983976.chunk.js"
   },
   {
     "revision": "6c77189fa14dcacee222",

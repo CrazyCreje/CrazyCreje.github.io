@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DigiSafe/static/css/main.f6aa7029.chunk.css",
-    "main.js": "/DigiSafe/static/js/main.b1a01f7c.chunk.js",
-    "main.js.map": "/DigiSafe/static/js/main.b1a01f7c.chunk.js.map",
+    "main.js": "/DigiSafe/static/js/main.b4983976.chunk.js",
+    "main.js.map": "/DigiSafe/static/js/main.b4983976.chunk.js.map",
     "runtime-main.js": "/DigiSafe/static/js/runtime-main.a9f10050.js",
     "runtime-main.js.map": "/DigiSafe/static/js/runtime-main.a9f10050.js.map",
     "static/js/2.7c771757.chunk.js": "/DigiSafe/static/js/2.7c771757.chunk.js",
     "static/js/2.7c771757.chunk.js.map": "/DigiSafe/static/js/2.7c771757.chunk.js.map",
     "index.html": "/DigiSafe/index.html",
-    "precache-manifest.0d68e32699bf6305bcd1606f3b360be2.js": "/DigiSafe/precache-manifest.0d68e32699bf6305bcd1606f3b360be2.js",
+    "precache-manifest.3134fec22b6afa3101e9bdb4205582b9.js": "/DigiSafe/precache-manifest.3134fec22b6afa3101e9bdb4205582b9.js",
     "service-worker.js": "/DigiSafe/service-worker.js",
     "static/css/main.f6aa7029.chunk.css.map": "/DigiSafe/static/css/main.f6aa7029.chunk.css.map",
     "static/media/index.css": "/DigiSafe/static/media/blue-and-purple-cosmic-sky-956999.46b4c7ce.jpg",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a9f10050.js",
     "static/js/2.7c771757.chunk.js",
     "static/css/main.f6aa7029.chunk.css",
-    "static/js/main.b1a01f7c.chunk.js"
+    "static/js/main.b4983976.chunk.js"
   ]
 }
