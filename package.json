@@ -2,7 +2,6 @@
   "homepage": "https://CrazyCreje.github.io/DigiSafe",
   "name": "game",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.7.2",
     "gh-pages": "^2.1.1",
